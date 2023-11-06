@@ -14,7 +14,7 @@
     "access": "public"
   },
   "dependencies": {
-    "apollo-env": "^0.5.1",
+    "apollo-env": "^0.10.0",
     "apollo-graphql": "^0.3.3",
     "apollo-server-env": "file:../apollo-server-env"
   },
